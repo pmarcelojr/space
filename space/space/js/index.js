@@ -30,3 +30,7 @@ function load() {
   }
 
 load();
+
+function teste(){
+  alert("capital code");
+}
